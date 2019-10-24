@@ -19,7 +19,8 @@ def gross_for_director(director_data)
 
     director_index=0
     total=0
-    
+    while director_index<director_data.length do
+      
 
 
 
