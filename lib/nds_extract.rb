@@ -9,7 +9,7 @@ def directors_totals(nds)
    gross_for_director
 
 
-  result = {}
+directors_totalst = {}
   nil
 end
 
