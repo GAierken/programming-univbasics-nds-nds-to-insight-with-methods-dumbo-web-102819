@@ -6,10 +6,10 @@ require 'directors_database'
 # { directorOne => allTheMoneyTheyMade, ... }
 
 def directors_totals(nds)
-   gross_for_director
+   
 
 
-directors_totals = {}
+result = {}
 
 end
 
