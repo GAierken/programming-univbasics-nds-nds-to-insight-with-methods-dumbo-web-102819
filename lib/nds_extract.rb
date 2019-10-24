@@ -9,8 +9,8 @@ def directors_totals(nds)
    gross_for_director
 
 
-directors_totalst = {}
-  
+directors_totals = {}
+
 end
 
 # Find a way to accumulate the :worldwide_grosses and return that Integer
